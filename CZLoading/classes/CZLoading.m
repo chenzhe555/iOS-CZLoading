@@ -7,7 +7,7 @@
 //
 
 #import "CZLoading.h"
-#import <CZCategory/NSObject+CZCategory.h>
+#import <CZCategorys/NSObject+CZCategory.h>
 #import <CZConfig/CZConfig.h>
 #import <MBProgressHUD/MBProgressHUD.h>
 
